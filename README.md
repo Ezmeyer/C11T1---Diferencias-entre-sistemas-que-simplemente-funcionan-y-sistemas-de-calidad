@@ -1,1 +1,0 @@
-# C11T1---Diferencias-entre-sistemas-que-simplemente-funcionan-y-sistemas-de-calidad
